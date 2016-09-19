@@ -1,0 +1,13 @@
+{
+  "name": "jquery-flexslider",
+  "homepage": "https://github.com/regru/FlexSlider",
+  "version": "2.2.7-regru",
+  "_release": "2.2.7-regru",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.2.7-regru",
+  },
+  "_source": "https://github.com/regru/FlexSlider.git",
+  "_target": "2.2.7-regru",
+  "_originalSource": "https://github.com/regru/FlexSlider.git"
+}
