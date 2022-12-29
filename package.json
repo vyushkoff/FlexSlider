@@ -1,4 +1,16 @@
 {
-  "name": "FlexSlider",
-  "version": "2.2.7"
+  "name": "@regru/flexslider",
+  "version": "2.2.7",
+  "description": "http://www.woothemes.com/flexslider/ - Copyright (c) 2013 WooThemes",
+  "main": "jquery.flexslider.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regru/FlexSlider.git"
+  },
+  "author": "Automattic <jeff@woothemes.com>",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/regru/FlexSlider/issues"
+  },
+  "homepage": "https://github.com/regru/FlexSlider#readme"
 }
