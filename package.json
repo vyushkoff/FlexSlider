@@ -1,5 +1,5 @@
 {
-  "name": "@regru/flexslider",
+  "name": "@regru/jquery-flexslider",
   "version": "2.2.7",
   "description": "http://www.woothemes.com/flexslider/ - Copyright (c) 2013 WooThemes",
   "main": "jquery.flexslider.js",
